@@ -1,0 +1,5 @@
+Usuario: 42627515
+Contraseña: 1234
+
+Nombre de base:
+DBSISTEMA_VENTA
