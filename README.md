@@ -7,16 +7,16 @@ El siguiente proyecto forma parte de un sistema de venta desarrollado en C# y vi
 
 #### - LOGIN
 
-![Login](https://r2.easyimg.io/jgubbd4wh/captura_de_pantalla_2024-02-26_095346.png)
+![Login](https://res.cloudinary.com/dl0rep9zj/image/upload/v1741145202/Captura_de_pantalla_2024-02-26_095346_arrohb.png )
 
 #### - PANEL DE ADMINISTRACIÓN (SECCIÓN PRODUCTOS)
 
-![Panel](https://r2.easyimg.io/fjpoismsz/captura_de_pantalla_2024-02-26_094958.png)
+![Panel](https://res.cloudinary.com/dl0rep9zj/image/upload/v1741145238/Captura_de_pantalla_2024-02-26_094958_ix5ewh.png)
 
 #### - PANEL DE ADMINISTRACIÓN (SECCIÓN VENTAS)
 
-![Ventas](https://r2.easyimg.io/nh6zbjmnt/captura_de_pantalla_2024-02-26_095120.png)
+![Ventas](https://res.cloudinary.com/dl0rep9zj/image/upload/v1741145390/Captura_de_pantalla_2024-02-26_095120_tfbjwz.png)
 
 #### - GENERACION DE FACTURA PDF (Lector de pdf integrado)
 
-![Factura](https://r2.easyimg.io/zbd4qyxae/captura_de_pantalla_2024-02-26_095141.png)
+![Factura](https://res.cloudinary.com/dl0rep9zj/image/upload/v1741145406/Captura_de_pantalla_2024-02-26_095141_goz5bi.png)
